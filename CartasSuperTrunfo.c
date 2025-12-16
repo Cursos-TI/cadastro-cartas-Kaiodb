@@ -59,7 +59,7 @@ int main() {
     // 3. Área para exibição dos dados da cidade
     // ----------------------------------------------------------------------------------
     printf("\n========================================\n");
-    printf("      DADOS DA CARTA CADASTRADA         \n");
+    printf("      DADOS DA CARTAS CADASTRADA         \n");
     printf("========================================\n");
     
     // Exibindo textos (%s)
